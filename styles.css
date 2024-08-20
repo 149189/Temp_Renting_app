@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 15;
     padding: 0;
-    background-image: url('images/Backgroud.webp'); /* Path to your image */
+    background-image: url('images/background.jpg'); /* Path to your image */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -47,7 +47,7 @@ nav ul li {
     text-align: center;
 }
 
-header ul li a {
+header  ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
